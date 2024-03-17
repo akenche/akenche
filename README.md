@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - amol kenche
+<br/>
+it is a consdering langauge
 
 <!---
 akenche/akenche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
